@@ -1,0 +1,108 @@
+.nav-image{
+    height: 60px;
+    width: 150px;
+}
+
+.home{
+    
+    background-image: url('../Amber/Assests/Aircraft-Trading-Header-1.jpg');
+    
+        background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+   min-height: 80vh;
+    width: 100%; 
+   
+    
+   
+   
+}
+@media(max-width: 1366){
+    .home{
+        min-height: 30vh;
+    }
+}
+    
+
+    
+
+.nav-heading{
+    color:#ffffff;
+    font-style: normal;
+    padding: 20px;
+    margin-left: 100px;
+    margin-top: 50px;
+    
+}
+hr{
+    width: 80vw;
+    margin-right: auto;
+    margin-left: auto;
+}
+.text-1{
+    font-size: 30px;
+    width: 400px;
+    padding: 20px;
+    color: rgb(9, 126, 126);
+    
+}
+.image-2{
+    height: 500px;
+    border-radius: 20px;
+    padding: 50px;
+    
+}
+.text-2{
+    padding:22px ;
+    font-size: 17px ;
+    margin-top: 20px;
+   margin-left: 150px;
+   margin-bottom: auto;
+   width: 100px;
+   
+
+}
+.learn{
+    border:1px solid black;
+    background-color: transparent;
+    border-radius: 5px;
+    width: 180px;
+    height: 40px;
+    color: black;
+}
+.Events-section{
+    background-color: rgb(204, 243, 230);
+    padding: 40px;
+    color: rgb(9, 126, 126);
+    
+}
+.input{
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid black;
+    width: 100%;
+   
+}
+.bg-container{
+    background-color:  #009ca6;;
+    
+    width: 100%;
+    color: #ffffff;
+}
+
+.line{
+    color: #ffffff;
+    border-width: 2px;
+    border-color: #ffffff;
+}
+.enquiry{
+    padding: 50px;
+    margin: 20px;
+}
+@media only screen and (max-width: 560px) {
+    .home{
+    width: 100%;
+    }
+    }
